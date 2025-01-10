@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>30-Day SOC Homelab challenge </b>
+- <a href="https://github.com/Mikey064/SOC-HomeLab/tree/main">30-Day SOC Home-Lab Challenge</a>
   - [Day 1: Create a Logical DIiagram](https://medium.com/@michaelokpu/30-days-soc-analyst-real-life-projects-e7c3797c0edd)
   - [Day 2: Setting up VMs for the Homelab](https://medium.com/@michaelokpu/day-2-an-on-premise-setup-for-your-home-lab-faaea5b40d81)
   - [Day 3: An introduction to ELK stack](https://medium.com/@michaelokpu/30-days-soc-analyst-real-life-projects-e7c3797c0edd)
