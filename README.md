@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mikey! <br/><a href="https://github.com/Mikey064">SOC Analyst</a>, <a href="https://www.linkedin.com/in/michaelokpu/">Cybersecurity Professional</a>, <a href="https://medium.com/@michaelokpu">Cybersecurity Blogger</a></h1>
+<h1>Hi, I'm Mikey! <br/><a href="https://github.com/Mikey064">SOC Analyst</a>, <a href="https://www.linkedin.com/in/michaelokpu/">Cybersecurity Analyst</a>, <a href="https://medium.com/@michaelokpu">Cybersecurity Blogger</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
