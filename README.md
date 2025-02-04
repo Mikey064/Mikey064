@@ -5,7 +5,6 @@
 I am a Computer Engineering graduate with a passion for Cybersecurity and I am aiming to join a Security Operations Center as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
